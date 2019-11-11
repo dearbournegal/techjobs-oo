@@ -2,6 +2,7 @@ package org.launchcode.models;
 
 /**
  * Created by LaunchCode
+ * To render search and list options in the view
  */
 public enum JobFieldType {
 
